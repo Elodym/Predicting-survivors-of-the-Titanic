@@ -8,4 +8,4 @@ In the random forest file, I start by fitting a decision tree to understand the 
 
 Both approaches (logistic regression or random forest) give very similar results. My models are roughly all 80% accurate.
 
-I use Python (Jupyter notebook) for the whole analysis. To install: <a href="https://jupyter.readthedocs.io/en/latest/install.html">visit</a>
+I use Python (Jupyter notebook) for the whole analysis. To install: <a href="https://jupyter.readthedocs.io/en/latest/install.html">visit</a>.
