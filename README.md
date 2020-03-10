@@ -6,6 +6,13 @@ In the random forest file, I start by fitting a decision tree to understand the 
 
 ## Which model is better?
 
-Both approaches (logistic regression or random forest) give very similar results. My models are roughly all 80% accurate.
+Both approaches (logistic regression or random forest) give very similar results. My models are roughly all 80% accurate. The model that is best able to distinguish between survivors and deads is the imputated logistic regression.
 
-I use Python (Jupyter notebook) for the whole analysis. To install: <a href="https://jupyter.readthedocs.io/en/latest/install.html">visit</a>.
+## Reproducibility
+
+I use Python (Jupyter notebook) for the whole analysis. To install, visit: https://jupyter.readthedocs.io/en/latest/install.html
+The data I used is attached. For details on the meaning of each variable, see: https://www.kaggle.com/c/titanic/data
+
+## Next steps
+
+There are many more possibilities to explore in this dataset. For example, predicting which groups were more likely to survive (gender, social class). So, this repo is in working progress.
