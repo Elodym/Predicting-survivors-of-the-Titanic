@@ -11,7 +11,7 @@ Both approaches (logistic regression or random forest) give very similar results
 ## Reproducibility
 
 I use Python (Jupyter notebook) for the whole analysis. To install, <a href="https://jupyter.readthedocs.io/en/latest/install.html">visit</a>.
-The data I used is attached. For details on the meaning of each variable, <a href="https://www.kaggle.com/c/titanic/data">visit</a>.
+The data I used is attached. For details on the meaning of each variable, <a href="https://www.kaggle.com/c/titanic/data">see</a>.
 
 ## Next steps
 
